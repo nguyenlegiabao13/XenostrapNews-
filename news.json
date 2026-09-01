@@ -1,8 +1,14 @@
 [
   {
-    "title": "Xenostrap Beta V0.1.0.0",
+    "title": "Xeonstrap Beta V0.1.0.0",
     "date": "2026-08-18T10:00:00Z",
     "content": "Bản Beta Đầu Tiên Của Xenostrap V0.1.0.0",
+    "imageUrl": ""
+  },
+  {
+    "title": "Xeonstrap Release V1.0.0.0",
+    "date": "2026-09-2T10:00:00Z",
+    "content": "Bản Release Xeonstrap V1.0.0.0 , mở ra 1 kỷ nguyên mới  của Xeon",
     "imageUrl": ""
   }
 ]
